@@ -8,6 +8,6 @@
 
 ## [Challenge 4 RSS](https://github.com/YusofBandar/IGN-Code-Foo-2018/tree/master/Challenge%202%20Geomags)
 
-## [Challenge 5 How I found](https://github.com/YusofBandar/IGN-Code-Foo-2018/tree/master/Challenge%202%20Geomags)
+## [Challenge 5 How I found](https://github.com/YusofBandar/IGN-Code-Foo-2018/tree/master/Challenge%205%20Found%20By)
 
-## [Challenge 6 Bonus](https://github.com/YusofBandar/IGN-Code-Foo-2018/tree/master/Challenge%202%20Geomags)
+## [Challenge 6 Bonus](https://github.com/YusofBandar/IGN-Code-Foo-2018/tree/master/Challenge%206%20Bonus)
