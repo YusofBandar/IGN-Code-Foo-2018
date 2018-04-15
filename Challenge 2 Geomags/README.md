@@ -14,9 +14,11 @@ After working out the dimensions, I had realised that the Eiffel Tower is consid
 To the build the tower I focused on two main building blocks a simple cuboid and a Parallelepiped. The straight parts of the towers were built out of the cuboids whereas the angled parts were built with the parallelepipeds.
 
 Parallelpiped Design:
+
 ![Image](https://github.com/YusofBandar/IGN-Code-Foo-2018/blob/master/Challenge%202%20Geomags/More%20Detail/Images/Parallelepiped.PNG)
 
 Cuboid Design:
+
 ![Image](https://github.com/YusofBandar/IGN-Code-Foo-2018/blob/master/Challenge%202%20Geomags/More%20Detail/Images/Cuboid.PNG)
 
 #### The Crown
