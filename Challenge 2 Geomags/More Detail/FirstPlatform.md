@@ -4,7 +4,7 @@ The first part I worked on was the legs for the tower. Initially I calculated th
 
 For the legs I wanted the design to be simple, utilising minimal Geomags, yet still resembling the appearance of the old tower, below is the final design.  
 
-![Screenshot](IGN-Code-Foo-2018/Challenge 2 Geomags/More Detail/Images/FirstPlatform.PNG)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 To work out the total number of bars and balls for the four legs, I worked the total volume for one leg, because one parallelepiped 17 bars and balls, I multiplied the total volume by 22.  
 (image)
