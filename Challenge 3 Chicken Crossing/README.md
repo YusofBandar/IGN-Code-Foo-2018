@@ -7,6 +7,9 @@ The algorithm worked by checking if the chicken could go down up or right, for e
 
 ##### Dynamic Programming 
 If i reached a cell that that had been previously stored, I knew there was valid path. To improve efficiency there was no need to compute that path as I have already stored it.
+
+![Image](https://github.com/YusofBandar/IGN-Code-Foo-2018/blob/master/Challenge%202%20Geomags/More%20Detail/Images/Dynamic%20Programming.PNG)
+
 ****
 
 ##### Larger Grids
