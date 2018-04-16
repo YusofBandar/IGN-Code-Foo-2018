@@ -25,5 +25,10 @@ Cuboid Design:
 For the top of the tower I decided to take some artisitc liberity, making it a hexagonal ball approxamilty 20 metres wide and tall. 
 
 #### Total
-For the top of the tower I decided to take some artistic liberty, making it a hexagonal ball approximately  20 metres wide and tall.
+Legs + First-Platform + Second-Platform + Third-Platform + Crown = Total
+
+68177906 + 17375036 + (15150646 +5056528) +83162353 + 80345 = Total
+
+**Total = 189002814 (one hundred eighty-nine million, two thousand, eight hundred fourteen)**
+
 
