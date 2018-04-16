@@ -4,7 +4,7 @@ I found all the valid path by using Depth First Search and recursion, meaning it
 ##### Algorithm
 The algorithm worked by checking if the chicken could go down up or right, for each cell, once it reached a valid path that path was stored to be remembered later.
 
-![Image](https://github.com/YusofBandar/IGN-Code-Foo-2018/blob/master/Challenge%202%20Geomags/More%20Detail/Images/Parallelepiped.PNG)
+![Image](https://github.com/YusofBandar/IGN-Code-Foo-2018/blob/master/Challenge%202%20Geomags/More%20Detail/Images/Algorithm.PNG)
 
 ****
 
